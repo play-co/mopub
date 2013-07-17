@@ -145,8 +145,7 @@
 		"SystemConfiguration",
 		"Twitter",
 		"./MoPubSDK/Resources/MRAID.bundle",
-		"./MoPubSDK/Internal/Common/MPAdBrowserController.xib",
-		"./MoPubSDK/Resources/MPCloseButtonX.png",
-		"./MoPubSDK/Resources/MPCloseButtonX@2x.png"
+		"./MoPubSDK/Resources/closeButton.bundle",
+		"./MoPubSDK/Internal/Common/MPAdBrowserController.xib"
 	]
 }
