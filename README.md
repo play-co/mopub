@@ -1,6 +1,6 @@
 # Game Closure DevKit Plugin: MoPub
 
-This plugin allows you to collect analytics using the [MoPub](https://mopub.com/) toolkit.  Both iOS and Android targets are supported.
+This plugin allows you to show interstitials using the [MoPub](https://mopub.com/) toolkit.  Both iOS and Android targets are supported.
 
 ## Usage
 
