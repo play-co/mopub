@@ -25,7 +25,7 @@ To specify your game's AppID and AppSignature, edit the `manifest.json "android"
 			"72": "resources/icons/android72.png",
 			"96": "resources/icons/android96.png"
 		},
-		"moPubAdUnitID": "7c5a4b7ffb404727987f55be6ecb468b"
+		"moPubID": "7c5a4b7ffb404727987f55be6ecb468b"
 	},
 ~~~
 
@@ -40,7 +40,7 @@ To specify your game's AppID and AppSignature, edit the `manifest.json "android"
 			"114": "resources/images/promo/icon114.png",
 			"144": "resources/images/promo/icon144.png"
 		},
-		"moPubAdUnitID": "7c5a4b7ffb404727987f55be6ecb468b"
+		"moPubID": "7c5a4b7ffb404727987f55be6ecb468b"
 	},
 ~~~
 
