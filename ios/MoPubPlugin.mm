@@ -30,6 +30,7 @@
 		
 		NSLog(@"{moPub} Initializing with manifest moPubID: '%@'", moPubID);
 
+		self.appDelegate = appDelegate;
 		self.adView = [[[MPAdView alloc] initWithAdUnitId:moPubID size:MOPUB_BANNER_SIZE] autorelease];
 		self.adView.delegate = self;
 
